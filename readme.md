@@ -1,12 +1,12 @@
 # Grob-Planung
 
-✍️ Fügen Sie hier Ihren Namen ein
+✍️ Ihor Tienietilov
 
-✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
+✍️ Ein Lernperiod (bis Herbstferien)
 
 ## Leit-Satz
 
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+✍️ Wir, ein kleines Team, werden ein kleines 2D-Platformer-Spiel in Unity auf der Grundlage von C# entwickeln. Was ich aus diesem Projekt mitnehmen möchte, ist, meine Programmierfähigkeiten und -kenntnisse zu verbessern, insbesondere in C#, und mehr über die Unity-Software zu erfahren. Es ist ein ziemlich großes Projekt, was den Umfang angeht, aber wir werden auf jeden Fall nichts allzu Grandioses entwickeln. Nur ein kleines Spiel, vielleicht mit einer interessanten Idee. Ich habe Links zu Referenzen beigefügt. Ich persönlich werde an diesem Projekt in folgender Weise beteiligt sein: als die Person, die sich um die gesamte Planung des Teams kümmert und den gesamten Ablauf des Projekts überwacht. Ich habe schon früher Spiele mit Unity entwickelt, aber keines meiner Projekte ist abgeschlossen. Vielleicht wird unser Spiel auf dem Play Market veröffentlicht (neben der regulären Version für den PC)
 
 ## Arbeitspakete für dd.mm.yyyy
 
