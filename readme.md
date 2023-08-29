@@ -10,13 +10,12 @@
 
 ## Arbeitspakete für 29.08.2023
 
-- [ ] readme.md fertigstellen.
-- [ ] Die richtige Version von Unity installieren.
-- [ ] Suchen Sie nach Referenzen.
-- [ ] Gameplay verfeinern, "Brainstorming".
-- [ ] Erstellen eines Projekts und Verbinden von Github-Collaboration, um das Projekt zu synchronisieren.
-- [ ] Erstellen eines Aufgabenplaners und Eintragen der Hauptaufgaben in diesen.
-- [ ] Aufgaben für jeden von uns zusammenstellen.
-- [ ] Suche nach den Spielbaugruppen.
-- [ ] Erster Code.
-- [ ] ...
+- [x] readme.md fertigstellen.
+- [x] Die richtige Version von Unity installieren.
+- [x] Suchen Sie nach Referenzen.
+- [x] Erstellung von Projekten
+- [x] Finden und Installieren der richtigen Assets.
+- [x] Anschauen eines Lehrvideos
+- [x] Wiedererlangung von Wissen
+- [x] Code für Bewegung schreiben
+- [ ] Schreiben des Codes für den Sprung
