@@ -19,3 +19,12 @@
 - [x] Wiedererlangung von Wissen
 - [x] Code für Bewegung schreiben
 - [ ] Schreiben des Codes für den Sprung
+
+Ich habe heute ein sehr optimiertes und tolles Training absolviert. Ich habe fast keine Fehler gemacht, aber ich habe mir immer noch nicht alles gemerkt, was ich weiß.
+
+## Arbeitspakete für 05.09.2023
+
+- [ ] Sehen Sie sich das Tutorial-Video weiter an
+- [ ] Beenden Sie den Code für den Sprung
+- [ ] Beschreiben Sie die Idee, durchdenken Sie die Handlung.
+- [ ] ...
