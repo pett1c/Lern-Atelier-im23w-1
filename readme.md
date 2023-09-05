@@ -24,7 +24,15 @@ Ich habe heute ein sehr optimiertes und tolles Training absolviert. Ich habe fas
 
 ## Arbeitspakete für 05.09.2023
 
-- [ ] Sehen Sie sich das Tutorial-Video weiter an
-- [ ] Beenden Sie den Code für den Sprung
-- [ ] Beschreiben Sie die Idee, durchdenken Sie die Handlung.
+- [x] Sehen Sie sich das Tutorial-Video weiter an
+- [x] Beenden Sie den Code für den Sprung
+- [x] Beschreiben Sie die Idee, durchdenken Sie die Handlung.
+- [x] ...
+
+Heute war ein recht produktiver Tag. Ich habe den Code für die Sprungfunktion fertiggestellt und begonnen, das Lebens- und Schadenssystem zu beschreiben. Ein paar Level meines Spiels werden bald fertig sein.
+
+## Arbeitspakete für 12.09.2023
+
+- [ ] Beenden Sie das Lebens- und Münzsystem.
+- [ ] Entscheiden Sie, ob es eine Geschichte im Spiel geben wird.
 - [ ] ...
