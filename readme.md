@@ -36,3 +36,13 @@ Heute war ein recht produktiver Tag. Ich habe den Code für die Sprungfunktion f
 - [ ] Beenden Sie das Lebens- und Münzsystem.
 - [ ] Entscheiden Sie, ob es eine Geschichte im Spiel geben wird.
 - [ ] ...
+
+Bei der Arbeit an meinem Spiel habe ich beschlossen, das Gesundheitssystem und (vorerst) das Münzsystem abzuschaffen. Stattdessen war ich damit beschäftigt, die Benutzeroberfläche und die Menüs anzupassen und die drei Hauptlevel zu erstellen. 
+
+## Arbeitspakete für 19.09.2023
+
+- [ ] Beenden Sie das Einstellungsmenü.
+- [ ] Hinzufügen einer Pausentaste während des Spiels.
+- [ ] Leveling (Levelaufbau) Leveln.
+- [ ] Code für den Tod schreiben.
+- [ ] (eventuell) Hinzufügen von Musik und Geräuschen.
