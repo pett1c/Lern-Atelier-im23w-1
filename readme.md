@@ -41,8 +41,14 @@ Bei der Arbeit an meinem Spiel habe ich beschlossen, das Gesundheitssystem und (
 
 ## Arbeitspakete für 19.09.2023
 
-- [ ] Beenden Sie das Einstellungsmenü.
+- [x] Beenden Sie das Einstellungsmenü.
 - [ ] Hinzufügen einer Pausentaste während des Spiels.
-- [ ] Leveling (Levelaufbau) Leveln.
-- [ ] Code für den Tod schreiben.
+- [x] Leveling (Levelaufbau) Leveln.
+- [x] Code für den Tod schreiben.
 - [ ] (eventuell) Hinzufügen von Musik und Geräuschen.
+
+## Reflexion
+
+Also. Zuerst wollte ich ein Teamprojekt machen, habe sogar Leute zusammengetrommelt. Aber im letzten Moment sind alle wieder abgereist, und ich bin allein geblieben. Aber ich habe nicht verzweifelt und habe angefangen zu arbeiten. Es war sehr schwierig, und selbst jetzt ist mein Spiel noch nicht fertig. Im LernAtelier habe ich nicht genug Zeit zum Lernen, aber selbst wenn ich mehr Zeit hätte, würde ich es nicht schaffen, denn morgens und nachmittags ist zu viel.
+
+Am Anfang war es gut. Es gab ein paar Fehler, die habe ich schnell genug behoben. Aber dann hat sich alles schlagartig geändert. Ich habe nicht verstanden, was ich machen wollte. Oder Töne, oder Geschichte, oder Münzmechanik. Später habe ich viele Dinge, die ich realisieren wollte, aufgegeben, weil ich einfach nicht genug Zeit hatte. Nach den Ferien werde ich kein neues Projekt beginnen, sondern das bisherige weiterführen. Im Moment ist nur ein Level fertig, und das ist noch nicht zu Ende. Es gibt keine Geräusche, Pausen, Einstellungen, Münzen, Hindernisse. Nur das Hauptmenü und die Interaktion mit der Spielfigur. Oh, und ein Gegenstand, den man aufsammeln kann. Das war's eigentlich schon.
